@@ -872,7 +872,7 @@ TOOL CALL:
 ### Step 1: Clone & Install
 
 ```bash
-git clone https://github.com/Brijesh03032001/SlackAgent.git
+git clone https://github.com/Mounusha25/SlackAgent.git
 cd SlackAgent
 npm install
 ```
@@ -1623,14 +1623,14 @@ Want to influence the roadmap? Open a GitHub Discussion with your suggestion.
 
 <div align="center">
   
-### **Brijesh Kumar**
+### **Mounusha Metti**
 
 AI Software Engineer | MS Computer Science @ Arizona State University
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/brijeshkumar03)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Brijesh03032001)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:kumarbrijesh.dev@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=google-chrome)](https://brijeshbuilds.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/mounusha-ram-metti)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Mounusha25)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:metti.mounu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=google-chrome)](https://mounushametti.com)
 
 </div>
 
@@ -1687,10 +1687,10 @@ I built SlackMind to showcase my abilities in:
 **Location:** Tempe/Phoenix, AZ — open to relocation
 
 **Contact:**
-- 📧 Email: [kumarbrijesh.dev@outlook.com](mailto:kumarbrijesh.dev@outlook.com)
-- 💼 LinkedIn: [linkedin.com/in/brijeshkumar03](https://linkedin.com/in/brijeshkumar03)
-- 🐙 GitHub: [github.com/Brijesh03032001](https://github.com/Brijesh03032001)
-- 🌐 Portfolio: [brijeshbuilds.com](https://brijeshbuilds.com)
+- 📧 Email: [metti.mounu@gmail.com](mailto:metti.mounu@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/mounusha-ram-metti](https://linkedin.com/in/mounusha-ram-metti)
+- 🐙 GitHub: [github.com/Mounusha25](https://github.com/Mounusha25)
+- 🌐 Portfolio: [mounushametti.com](https://mounushametti.com)
 
 ---
 
