@@ -1,5 +1,7 @@
 # 🚀 SlackMind - AI Agent with Memory & 59 Tools
 
+![SlackMind AI agent banner](SlackMind_%20banner.png)
+
 > **A Slack bot that remembers context, searches indexed Slack history semantically, and takes automated actions across GitHub, Notion, and Slack. Built with RAG, Long-Term Memory, and MCP Protocol.**
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue?logo=typescript)](https://www.typescriptlang.org/)
